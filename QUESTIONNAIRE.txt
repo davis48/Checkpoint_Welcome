@@ -1,0 +1,37 @@
+QUESTION 1:
+
+Le développement web est le processus de création et de maintenance de sites web. Il est essentiel dans le contexte d'Internet, car il permet aux entreprises, organisations et individus de partager des informations, d'interagir avec les utilisateurs, et de proposer des services ou produits en ligne. C'est la pierre angulaire de la présence numérique.
+
+Connaissances HTML
+
+Oui, HTML (HyperText Markup Language) est un langage de balisage utilisé pour structurer le contenu d'une page web. Son objectif principal est de définir les éléments de base d'une page web, comme les titres, paragraphes, images, liens, et autres éléments visibles ou non.
+
+QUESTION 2:
+
+Compréhension de CSS
+
+Oui, CSS (Cascading Style Sheets) est utilisé pour styliser les pages web. Il permet de contrôler l'apparence visuelle des éléments HTML, notamment les couleurs, les polices, les marges, les positions et les animations. CSS est essentiel pour rendre les sites web attractifs et adaptés à différents appareils.
+
+QUESTION 3 :
+
+Introduction à JavaScript
+
+Oui, JavaScript est un langage de programmation qui permet de rendre les sites web interactifs. Contrairement à HTML et CSS, qui se concentrent sur la structure et le style, JavaScript permet d'ajouter des fonctionnalités dynamiques comme les carrousels, formulaires interactifs, animations, et bien plus encore. C'est un langage clé pour une expérience utilisateur engageante.
+
+QUESTION 4:
+Connaissance de React et Node.js
+Oui, React et Node.js sont des outils puissants dans le développement web.
+
+-React : Une bibliothèque JavaScript utilisée pour construire des interfaces utilisateur interactives. Elle est populaire pour sa capacité à créer des applications web rapides et modulaires grâce à ses composants réutilisables.
+
+-Node.js : Un environnement d'exécution JavaScript côté serveur. Il permet de créer des applications web performantes et évolutives, notamment pour gérer des bases de données et des API.
+
+QUESTION 5 :
+
+Intentions d'apprentissage
+
+J'espère créer des sites web et applications pour divers besoins en maîtrisant HTML, CSS, JavaScript, React, et Node.js.
+
+-Construire des projets personnels (portfolios, blogs, etc.).
+
+-Travailler dans le domaine du développement web
